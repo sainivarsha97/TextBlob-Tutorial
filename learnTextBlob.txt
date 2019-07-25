@@ -1,0 +1,1 @@
+Hello, We are learning textblob here. It is a very cool library for sentimental analysis.
